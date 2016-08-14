@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import models.Authenticator;
+import login.Authenticator;
 import models.User;
 
 @WebServlet("/Login")
